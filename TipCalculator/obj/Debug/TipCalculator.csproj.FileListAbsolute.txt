@@ -1,0 +1,7 @@
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\knpix\OneDrive\Desktop\Projects\TipCalculator\obj\Debug\TipCalculator.pdb
